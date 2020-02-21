@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+}
+header{}
+.container{width: 1200px;margin: auto;
+		display: flex;
+		align-items: center;
+	}
+.logo{
+    flex-basis: 20%;
+    max-width: 20%;
+}
+.logo img{
+
+}
+nav{
+    flex-basis: 80%;
+    max-width: 80%;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-end;
+}
+nav ul li{}
+nav ul li a{
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 15px;
+    display: block;
+}
+section{
+	padding-top: 250px;
+	padding-bottom: 250px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position-y: top;
+}
+.section-one{
+	background-image: url(../images/portfolio-item57.jpg);
+	
+}
+.section-two{
+	background-image: url(../images/portfolio-item58.jpg);
+}
+.section-three{
+	background-image: url(../images/portfolio-item59.jpg);
+}
+.section-four{
+	background-image: url(../images/portfolio-item60.jpg);
+}
+.section-five{
+	background-image: url(../images/portfolio-item61.jpg);
+}
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: #ff214f;
+    width: 400px;
+    padding: 12px;
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    margin: 0;
+}
+header{
+    padding: 11px 0;
+}
+.container{width: 1200px;margin: auto;display: flex;align-items: center;}
+.logo{
+    flex-basis: 20%;
+    max-width: 20%;
+}
+.logo img{
+
+}
+nav{
+    flex-basis: 80%;
+    max-width: 80%;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-end;
+}
+nav ul li{}
+nav ul li a{
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 15px;
+    display: block;
+}
+.section-one{
+	background-image: url(../images/portfolio-item57.jpg);
+	padding-top: 250px;
+	padding-bottom: 250px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position-y: top;
+}
+.section-twportfolio-item57.jpgo{}
+.section-three{}
+.section-four{}
+.section-five{}
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: #ff214f;
+    width: 400px;
+    padding: 12px;
+    text-align: center;
+    margin: auto;
+}
+
